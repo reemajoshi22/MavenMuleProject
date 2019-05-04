@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<import resource="mule-config.xml"/>
+<beans>
+  <bean id="readFile" class="com.maven.mule.TransfromInputOutput">
+    <property name="readFile">
+    </property>
+  </bean>
+  </beans>
